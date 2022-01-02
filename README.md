@@ -14,17 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm William Tobi</h1>
-<h3 align="center">A passionate cross platform mobile developer(flutter)</h3>
+<h1 align="center">Hi 👋, I'm Victor Rodriguez</h1>
+<h3 align="center">A passionate software developer</h3>
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Williamtobs" alt="Williamtobs" /></a> </p>
-<p align="left"> <a href="https://twitter.com/thisiswilltobs" target="blank"><img src="https://img.shields.io/twitter/follow/thisiswilltobs?logo=twitter&style=for-the-badge" alt="thisiswilltobs" /></a> </p>
-<p align="left">
-<b>Visitor count</b>
-<br><img src="https://profile-counter.glitch.me/Williamtobs/count.svg" />
-</p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17920368" alt="Williamtobs" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/thisiswilltobs" target="blank"><img src="https://img.shields.io/twitter/follow/thisiswilltobs?logo=twitter&style=for-the-badge" alt="thisiswilltobs" /></a> </p>-->
 <br>
 
 ![William](https://github-readme-stats.vercel.app/api?username=Williamtobs&show_icons=true&theme=blue-green)

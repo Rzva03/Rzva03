@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate software developer.</h3>
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17920368" alt="Williamtobs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17920368" alt="17920368" /></a> </p>
 <!--<p align="left"> <a href="https://twitter.com/thisiswilltobs" target="blank"><img src="https://img.shields.io/twitter/follow/thisiswilltobs?logo=twitter&style=for-the-badge" alt="thisiswilltobs" /></a> </p>-->
 <br>
 

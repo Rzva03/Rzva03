@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17920368&layout=compact&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=17920368&layout=compact&theme=buefy)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17920368&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abraham-v%C3%ADctor-zaragoza-rodr%C3%ADguez-6659a1222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Abraham Víctor Zaragoza Rodríguez" height="30" width="40" /></a>

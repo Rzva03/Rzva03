@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <!--<p align="left"> <a href="https://twitter.com/thisiswilltobs" target="blank"><img src="https://img.shields.io/twitter/follow/thisiswilltobs?logo=twitter&style=for-the-badge" alt="thisiswilltobs" /></a> </p>-->
 <br>
 
-![Victor](https://github-readme-stats.vercel.app/api?username=17920368&show_icons=true&theme=swift)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17920368&layout=compact&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=17920368&layout=compact&theme=buefy)
 
 <h3 align="left">Connect with me:</h3>

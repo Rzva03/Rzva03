@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="JavaScript" width="40" height="40"/> </a> 
 <a href="https://www.php.net/manual/es/index.php" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="40" height="40"/> </a> 
 <a href="https://laravel.com/docs/8.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel 8" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node JS" width="40" height="40"/> </a> 
 <a href ="https://www.java.com/en/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a> <a href ="https://www.python.org/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> </a> 

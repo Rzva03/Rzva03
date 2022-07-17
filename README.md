@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Abraham Víctor Zaragoza Rodríguez</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">A passionate back-end developer.</h3>
 <!--<p align="left"> <a href="https://twitter.com/thisiswilltobs" target="blank"><img src="https://img.shields.io/twitter/follow/thisiswilltobs?logo=twitter&style=for-the-badge" alt="thisiswilltobs" /></a> </p>-->
 <br>
 

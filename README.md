@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://lenguajecss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="https://www.php.net/manual/es/index.php" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="40" height="40"/> </a> 
+<a href="https://www.php.net/manual/es/index.php" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="40" height="40"/> </a> 
 <a href="https://laravel.com/docs/8.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel 8" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node JS" width="40" height="40"/> </a> 
 <a href ="https://www.java.com/en/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a> <a href ="https://www.python.org/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>

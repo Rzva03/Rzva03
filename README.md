@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abraham Víctor Zaragoza Rodríguez</h1>
-<h3 align="center">A passionate backend developer from México</h3>
+<h3 align="center">A passionate developer from México</h3>
 
 - 🔭 I’m currently working on [Servicios Externos](https://github.com/17920368/servicios-externos-upgrade.git)
 

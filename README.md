@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Servicios Externos](https://github.com/17920368/servicios-externos-upgrade.git)
 
-- 🌱 I’m currently learning **React JS**&**Webpack**
+- 🌱 I’m currently learning **React JS** & **Webpack**
 
 - 👨‍💻 All of my projects are available at [https://17920368.github.io/Portfolio-TorvikDev/](https://17920368.github.io/Portfolio-TorvikDev/)
 

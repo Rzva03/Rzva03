@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abraham Víctor Zaragoza Rodríguez</h1>
-<h3 align="center">A passionate developer from México</h3>
-
-- 🔭 I’m currently working on [Servicios Externos](https://github.com/17920368/servicios-externos-upgrade.git)
-
-- 🌱 I’m currently learning **React JS** & **Remix JS**
+<h3 align="center">A passionate developer from Mexico</h3>
 
 - 👨‍💻 All of my projects are available at [https://17920368.github.io/Portfolio-TorvikDev/](https://17920368.github.io/Portfolio-TorvikDev/)
 
-- 💬 Ask me about **Laravel 8**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **avictor.zrodriguez@gmail.com**
 

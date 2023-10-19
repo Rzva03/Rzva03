@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abraham Víctor Zaragoza Rodríguez</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-- 👨‍💻 All of my projects are available at [https://rzva03.github.io/Portfolio-TorvikDev/](https://rzva03.github.io/Portfolio-TorvikDev/)
+- 👨‍💻 All of my projects are available at [https://rzva03.github.io/portfolio/](https://rzva03.github.io/portfolio/)
 
 - 💬 Ask me about **React JS**
 
